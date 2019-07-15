@@ -1,5 +1,5 @@
 # Installation
-To use TSBOT, you need to have Python 2.7 installed, and using PIP, install Selenium.
+To use IGBot, you need to have Python 2.7 OR 3.6/7 installed, and using PIP, install Selenium.
 You also need to have Google Chrome webdriver installed, this can be found in a google search.
 
 In your command line, type `py igbot.py USERNAME PASSWORD LOOPS MELT`
